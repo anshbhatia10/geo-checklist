@@ -95,6 +95,24 @@ When someone asks ChatGPT _"Who are the best [your service] providers in [your c
 
 ---
 
+## 🛠️ Built-in Tools
+
+### Qlavo GEO Validator (`geo-validator.py`)
+
+We've included a simple Python script to help you audit your website's baseline technical readiness for AI search. It checks for the presence of the three AI-critical JSON-LD schemas: **Organization**, **FAQPage**, and **WebSite**.
+
+**How to use:**
+1. Ensure you have `requests` and `beautifulsoup4` installed:
+   ```bash
+   pip install requests beautifulsoup4
+   ```
+2. Run the validator:
+   ```bash
+   python geo-validator.py https://yourwebsite.com
+   ```
+
+---
+
 ## 📊 Platform-Specific Notes
 
 | Platform | Data Source | Update Speed | Key Factor |
