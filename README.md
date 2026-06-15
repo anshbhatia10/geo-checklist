@@ -22,6 +22,13 @@ When someone asks ChatGPT _"Who are the best [your service] providers in [your c
 - Perplexity processes **100M+ monthly queries**
 - **Less than 1%** of businesses are actively optimizing for AI search
 
+### 📊 Updated: June 2026
+
+Google I/O 2026 confirmed three shifts that make GEO urgent:
+1. **AI Mode hit 1 billion monthly users** in its first year — faster adoption than any Search feature in history
+2. **Queries in AI Mode are doubling every quarter** — the shift from traditional search to AI answers is accelerating
+3. **Google is rebuilding Search around conversational AI** for the first time in 25 years — the old SEO playbook is being disrupted by the platform itself
+
 ---
 
 ## ✅ The GEO Audit Checklist
