@@ -20,6 +20,8 @@ When someone asks ChatGPT _"Who are the best [your service] providers in [your c
 - ChatGPT has **200M+ weekly active users**
 - Google AI Overviews appear in **the majority of search queries**
 - Perplexity processes **100M+ monthly queries**
+- **93% of cited domains in ChatGPT answers rotate monthly** — no AI citation is permanent
+- **<1% of Indian brands get cited by any AI engine** — our 15-prompt audit across ChatGPT and Gemini found zero Indian brands in any AI answer
 - **Less than 1%** of businesses are actively optimizing for AI search
 
 ### 📊 Updated: June 2026
