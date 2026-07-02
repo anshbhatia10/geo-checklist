@@ -23,6 +23,8 @@ When someone asks ChatGPT _"Who are the best [your service] providers in [your c
 - **93% of cited domains in ChatGPT answers rotate monthly** — no AI citation is permanent
 - **<1% of Indian brands get cited by any AI engine** — our 15-prompt audit across ChatGPT and Gemini found zero Indian brands in any AI answer
 - **Less than 1%** of businesses are actively optimizing for AI search
+- **ChatGPT serves 900M weekly active users** — 72 billion messages monthly
+- **58% of users now replace traditional search with AI** for product research
 
 ### 📊 Updated: June 2026
 
